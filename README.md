@@ -139,7 +139,7 @@ O sistema foi projetado considerando eficiência computacional:
 
 ---
 
-## ▶️ Como executar
+## 6. ▶️ Como executar
 
 1. Clone o repositório:
 
