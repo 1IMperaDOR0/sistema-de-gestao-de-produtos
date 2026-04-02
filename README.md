@@ -193,16 +193,6 @@ Processando pedido: (...)
 
 ---
 
-## 🚀 8. Possíveis melhorias
-
-* Uso de `heapq` para Top K (melhor que ordenar tudo)
-* Validação de dados do CSV
-* Interface gráfica (GUI)
-* Integração com APIs de logística
-* Persistência em banco de dados
-
----
-
 ## 👥 Integrantes
 
 | Nome                                  | RM     |
